@@ -10,9 +10,12 @@ A dynamic and engaging quiz application built with Flutter that challenges users
 
 | Login Screen | Home Screen | Quiz Screen |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/9dbf5f4e-9e58-46bf-ba94-e963ca6bb71f" width="250"> | <img src="URL_TO_YOUR_HOME_SCREENSHOT" width="250"> | <img src="URL_TO_YOUR_QUIZ_SCREENSHOT" width="250"> |
+| <img src="https://github.com/user-attachments/assets/178bac46-d9a2-4bf7-b5e4-cc708c688b06" width="250"> | <img src="https://github.com/user-attachments/assets/7110f027-7efa-40a0-a3fd-be0da9467908" width="250"> | <img src="https://github.com/user-attachments/assets/52d89f6c-7480-4b8a-953d-2764b8aed945" width="250"> |
 
----
+
+
+
+
 
 ## ✨ Features
 
