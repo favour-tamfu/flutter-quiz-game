@@ -6,7 +6,7 @@ A dynamic and engaging quiz application built with Flutter that challenges users
 
 ## 📸 Screenshots
 
-*(This is the most important section! Replace these placeholders with actual screenshots of your app. You can drag and drop images directly into the GitHub editor.)*
+
 
 | Login Screen | Home Screen | Quiz Screen |
 | :---: | :---: | :---: |
