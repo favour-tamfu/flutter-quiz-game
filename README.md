@@ -10,7 +10,7 @@ A dynamic and engaging quiz application built with Flutter that challenges users
 
 | Login Screen | Home Screen | Quiz Screen |
 | :---: | :---: | :---: |
-| <img src="URL_TO_YOUR_LOGIN_SCREENSHOT" width="250"> | <img src="URL_TO_YOUR_HOME_SCREENSHOT" width="250"> | <img src="URL_TO_YOUR_QUIZ_SCREENSHOT" width="250"> |
+| <img src="C:\Users\Al Salik Computerz\Downloads\login.jpg" width="250"> | <img src="URL_TO_YOUR_HOME_SCREENSHOT" width="250"> | <img src="URL_TO_YOUR_QUIZ_SCREENSHOT" width="250"> |
 
 ---
 
